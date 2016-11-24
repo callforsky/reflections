@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The git will cover that repository and I will be able to commit changes to Git server.
+I need to do it because I have to tell Git that I want to cover which repository.

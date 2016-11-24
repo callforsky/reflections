@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It will help me to pinpoint the line that I made a difference. The logic
+    is, if the line is not supposed to change, it is most likely harmful and
+    cause bugs. So, a diff can help me to have a better idea about what I
+    changed and whether they are expected.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Sometimes I may write some brilliant codes that are not useful for that
+    time. It would be great if I can go back to pick up those gems (codes recycle
+    ). Also, I can compare the efficiency of codes between different versions,
+    which would be a good habit for a programmer to improve his or her skill.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pro is that one has the flexibility to commit and can commit whenever
+    there's a logical change. However, it requires high discipline and wise
+    personal judgement to do so. Personally, I choose manual commit over
+    automatic commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    This is a life-saver feature because for many times the files are inter-
+    related. Change one of them will definitely impact other files. So, it is
+    a great idea to commit a repository.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    First, I save file in a directory. Then I will use 'git log' to view the
+    history. Next, I use git diff to compare two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control allows me to go back to a safe copy whenver I messed
+    up with my code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Iwant to use Git to help me to track all my codes and have a strong control
+    on versions. It is what I am looking for since I started learning programming.

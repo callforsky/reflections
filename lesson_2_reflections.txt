@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 The git will cover that repository and I will be able to commit changes to Git server.
 I need to do it because I have to tell Git that I want to cover which repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is like the lodigng area where programmer puts files that they want to commit in it and then commit. It offers flexibility that someone may not want to commit every files in its repository.
